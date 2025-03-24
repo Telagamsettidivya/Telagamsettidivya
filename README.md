@@ -1,11 +1,20 @@
-- 👋 Hi, I’m Telagamsettidivya
-- 👀 I’m interested in ... Data & Business analysis.
-- 🌱 I’m currently learning ... Advanced technics for analyze the data.
-- 💞️ I’m looking to collaborate on ... Data analysis and business intelligence projects. Feel free to reach out if you're interested in working together on innovative solutions.
-- 📫 How to reach me ... telagamsettidivya321@gmail.com
-- 😄 Pronouns: ... I’m Divya (she/her), a data analyst specializing in leveraging data to drive business insights and decision-making.
-- ⚡ Fun fact: ... I am passionate about combining data analysis with storytelling, making complex data insights easy to understand for everyone.
--  🔍 Skills: ... 🖥 Python, 📊 SQL, 📈 Data Analysis, 📉 Data Visualization, 📊 Power BI, 📑 Excel.
+# 👋 Hi, I'm Divya!  
+### Data Analyst | Business Analytics Enthusiast  
+🚀 Passionate about Data-Driven Insights & Problem-Solving  
+
+## 🔍 About Me  
+- 📊 Skilled in **Python, SQL, Power BI**  
+- 📈 Focused on **Data Analysis, Visualization & Predictive Modeling**  
+- 🎯 Constantly learning & improving  
+
+## 📚 Projects  
+🔹 **[Sales Performance Trend Analysis](#)**  
+🔹 **[TCS Stock Analysis](#)**  
+🔹 **[Customer Churn Prediction](#)**  
+
+## 📫 Connect with Me  
+📧 **Email:** telagamsettidivya321@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/telagamsetti-divya-375651260)  
 
 <!---
 Telagamsettidivya/Telagamsettidivya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
